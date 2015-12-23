@@ -1,0 +1,18 @@
+[submodule "base16-vim"]
+	path = base16-vim
+	url = https://github.com/chriskempson/base16-vim.git
+[submodule "editorconfig-vim"]
+	path = editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "command-t"]
+	path = command-t
+	url = git://git.wincent.com/command-t.git
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "puppet-syntax-vim"]
+	path = puppet-syntax-vim
+	url = https://github.com/puppetlabs/puppet-syntax-vim
+[submodule "vim-ansible-yaml"]
+	path = vim-ansible-yaml
+	url = git://github.com/chase/vim-ansible-yaml.git
